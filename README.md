@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hi, I am Shihabudheen US 
 
-<!--
-**shihabus/shihabus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a JS enthusiast. Always love to learn new things and keep updated. By degree I am Electrical engineer, by profession I am coder and by passion I am an atrist. The thoughest question to answer is, what is my hobby. In free time I love to sleep. Not sure how many people buy that as a hobby😆. 
 
-Here are some ideas to get you started:
+Current I work with **[Dunzo](https://www.dunzo.com/)** as a frontend engineer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I 💻 in JavaScript. I have tried out Python, C, C# and C++.
+
+Now I am learning Advanced JS. 
+
+Really crazy about micro-frontends, graphql, security and deno.
+
+[LinkedIn](https://www.linkedin.com/in/shihabus/) | [Twitter](https://twitter.com/type___error) | [Portfolio]() | [Git](https://github.com/shihabus)
+
+
