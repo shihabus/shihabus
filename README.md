@@ -4,7 +4,7 @@ A JS enthusiast, who always ♥️ love to learn.
 
 By degree, I am an Electrical engineer, by profession I am a developer and by passion I am an atrist. The thoughest ❓ question to answer would be, about my hobby. In free time I love to 😴sleep. Not sure, howmany people would buy that as a hobby 😆. 
 
-Currently I work with **[Dunzo](https://www.dunzo.com/)** as a frontend engineer 👨‍💻. I help people to achieve their 🚀dreams, I do mentor and guide. 
+Currently I work with [Salesforce](https://www.dunzo.com/)** as a frontend engineer 👨‍💻. I help people to achieve their 🚀dreams, I do mentor and guide. 
 
 I code in JavaScript. I have tried out Python, C, C# and C++.
 
